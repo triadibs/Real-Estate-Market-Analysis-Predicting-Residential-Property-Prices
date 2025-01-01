@@ -1,4 +1,4 @@
-# Final Project: House Sales in King County, USA
+# Real Estate Market Analysis: Predicting Residential Property Prices
 
 <h2>Table of Contents</h2>
 <div class="alert alert-block alert-info" style="margin-top: 20px">
